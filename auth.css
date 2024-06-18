@@ -1,0 +1,20 @@
+body {
+
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_1n18VFpLlD9pRMfL7DerCA1-QoiS8W54yIPHerSlUKY9JdbNiB114QGcUuKTcwfjjwQ&usqp=CAU);
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-repeat: no-repeat;
+}.login-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    text-align: center;
+}
+

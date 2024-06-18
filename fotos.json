@@ -1,0 +1,50 @@
+{
+    "drivers": [
+        {
+            "src": "https://www.f1-fansite.com/wp-content/uploads/2012/11/120082_bra-Medium.jpg",
+            "alt": "Foto 6"
+        },
+        {
+            "src": "https://media.cnn.com/api/v1/images/stellar/prod/121105014638-kimi-raikkonen-abu-dhabi.jpg?q=w_3500,h_2426,x_0,y_0,c_fill",
+            "alt": "Foto 7"
+        },
+        {
+            "src": "https://tvazteca.brightspotcdn.com/da/9f/351a4a4443079044985a32c2c0b4/gettyimages-151634649.jpg",
+            "alt": "Foto 8"
+        },
+        {
+            "src": "https://img.europapress.es/fotoweb/fotonoticia_20120510165729_1200.jpg",
+            "alt": "Foto 9"
+        },
+        {
+            "src": "https://www.diariomotor.com/imagenes/2012/03/Jenson_Button_McLaren_GP_Australia_2012_02.jpg",
+            "alt": "Foto 10"
+        },
+        {
+            "src": "https://e00-marca.uecdn.es/albumes/2012/03/15/pilotos_mundial_f1_2012/1331808917_extras_albumes_0.jpg",
+            "alt": "Foto 11"
+        }
+    ],
+    "champions": [
+        {
+            "src": "https://elnuevopais.net/wp-content/uploads/2024/04/VETTEL.jpg",
+            "alt": "Foto 1"
+        },
+        {
+            "src": "https://cdn-9.motorsport.com/images/amp/lYBpbmz0/s1000/f1-european-gp-2012-race-winne.jpg",
+            "alt": "Foto 2"
+        }
+    ],
+    "adutls": [
+        {
+            "src": "https://media.cnn.com/api/v1/images/stellar/prod/120621122643-schumacher-mercedes-valencia-f1.jpg?q=w_2944,h_2199,x_0,y_0,c_fill",
+            "alt": "Foto 4"
+        }
+    ],
+    "teens": [
+        {
+            "src": "https://www.usatoday.com/gcdn/media/USATODAY/USATODAY/2012/11/18/usp-formula-one_-united-states-grand-prix-16_9.jpg",
+            "alt": "Foto 3"
+        }
+    ]
+}
